@@ -1,2 +1,2 @@
 # INFOSYS-322-
-Contains notes 
+Contains notes from semester 2 
